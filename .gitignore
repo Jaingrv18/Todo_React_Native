@@ -3,15 +3,15 @@
 # dependencies
 node_modules/
 
-eas.json
-android
-app.json
+android/
 
 # Expo
 .expo/
 dist/
 web-build/
 expo-env.d.ts
+eas.json
+app.json
 
 # Native
 *.orig.*
@@ -40,5 +40,5 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
-eas.json
+
 
